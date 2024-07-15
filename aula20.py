@@ -10,5 +10,5 @@ elif segundo_valor > primeiro_valor:
           format(valor1 = primeiro_valor, valor2 = segundo_valor))
 else: 
      print(f'{primeiro_valor=} é igual', 
-           f'{segundo_valor=}' ) 
+           f'{segundo_valor=}') 
      
